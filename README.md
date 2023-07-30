@@ -1,4 +1,4 @@
-#Task
+# Task
 
 Implement a library providing SortedLinkedList
 (linked list that keeps values sorted). It should be
@@ -7,12 +7,12 @@ think about what you'd expect from such library as a
 user in terms of usability and best practices, and
 apply those
 
-##Prerequisites
-###1.  Java version 17 and above
-###2.  Maven version 3 and above
+## Prerequisites
+### 1.  Java version 17 and above
+### 2.  Maven version 3 and above
 
-##Getting started
-###1. Running the app
+## Getting started
+### 1. Running the app
 Use maven commands to run the app.
 
 `mvn spring-boot:run "-Dspring-boot.run.arguments=given_list_of_elements"`
@@ -28,5 +28,5 @@ a1,
 a2,
 Sorted elements`
 
-###2. Running tests
+### 2. Running tests
 `mvn test`
